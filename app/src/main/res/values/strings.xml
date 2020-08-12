@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Quản Lý Siêu Thị</string>
+    <string name="title">Quản Lý Nhân Viên</string>
+    <string name="login">Đăng Nhập</string>
+    <string name="username">Tài khoản</string>
+    <string name="password">Mật khẩu</string>
+    <string name="bt_login">Login</string>
+    <string name="exit">Exit</string>
+    <string name="Registration">Đăng Ký</string>
+    <string name="Login_account">Login Account</string>
+    <string name="registration_account">registration Account</string>
+    <string name="agree">Đồng Ý</string>
+    <string name="cancel">Thoát</string>
+</resources>
